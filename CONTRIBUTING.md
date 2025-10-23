@@ -39,7 +39,7 @@ This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participatin
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Cool-Projects-Collections.git
+   git clone https://github.com/ratinto/Cool-Projects-Collections.git
    cd Cool-Projects-Collections
    ```
 
