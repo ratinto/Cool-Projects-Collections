@@ -285,6 +285,6 @@ This project is licensed under the MIT License - see the [LICENSE](../../LICENSE
 
 **[🔗 View Live Demo](https://taskflow-demo.vercel.app)** | **[📖 Read Documentation](SETUP.md)** | **[🤝 Contribute](../../CONTRIBUTING.md)**
 
-*Built with ❤️ by the TaskFlow team and the open-source community*
+*Built with ❤️ by the miceinto and the open-source community*
 
 </div>
