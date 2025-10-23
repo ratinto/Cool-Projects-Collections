@@ -1,4 +1,4 @@
-# 📋 TaskFlow - Collaboration Platform
+# 📋 TaskFlow - Collaboration Platform - by miceinto
 
 A modern, full-stack task management and collaboration platform built with Next.js, Node.js, and PostgreSQL. This project demonstrates real-world application development with features like team collaboration, project management, real-time updates, file sharing, and advanced task organization.
 
